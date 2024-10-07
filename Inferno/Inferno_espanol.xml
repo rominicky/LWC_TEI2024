@@ -533,7 +533,7 @@
 	"id": "https://raw.githubusercontent.com/rominicky/LWC_TEI2024/main/Inferno/Inferno_espanol.xml?place_annotation_20241007150859059",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-07T18:08:59.059Z",
-	"dcterms:modified": "2024-10-07T18:09:57.282Z",
+	"dcterms:modified": "2024-10-07T18:11:29.551Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rominicky",
 		"@type": [
@@ -576,7 +576,7 @@
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high",
-	"cwrc:hasPrecision": "cwrc:UnknownCertainty"
+	"cwrc:hasPrecision": "cwrc:lowCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -673,7 +673,7 @@
             <lg n="15">
                <l>Sentí en el corazón una gran pena,</l>
                <l>puesto que gentes de mucho valor</l>
-               <l>vi que en el <placeName key="limbo" ref="http://www.wikidata.org/entity/Q270710" cert="high">limbo<precision match="@ref" precision="Unknown"/></placeName> estaba suspendidos. </l>
+               <l>vi que en el <placeName key="limbo" ref="http://www.wikidata.org/entity/Q270710" cert="high">limbo<precision match="@ref" precision="low"/></placeName> estaba suspendidos. </l>
             </lg>
             <lg n="16">
                <l>«Dime, maestro, dime, mi señor</l>
